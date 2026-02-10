@@ -53,4 +53,6 @@ To ensure a "Single Source of Truth," I designed a normalized relational schema 
 ## 📂 Repository Structure
 * `/scripts`: Source code for MySQL (.sql), Cassandra (.cql), and Neo4j (.cypher).
 * `/img`: Data models, ERDs, and result visualizations.
-* **[Full_Technical_Report.pdf](./Cópia_de_Relatorio_CBD_3.pdf):** Detailed 40-page analysis including implementation steps and performance comparisons.
+* **[Full_Technical_Report.pdf](./Superstore_Data_Analysis_Report.pdf):** Detailed 40-page analysis including implementation steps and performance comparisons.
+
+**Note:** While this README is in English, the full technical report and documentation are written in Portuguese.
