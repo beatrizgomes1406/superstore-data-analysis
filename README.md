@@ -26,8 +26,8 @@ To ensure a "Single Source of Truth," I designed a normalized relational schema 
 
 ### 2. Financial Health: Identifying "Loss Leaders"
 ![Profit Analysis](./img/profit_analysis.png)
-* **Insight:** Specific products like **Avery 511** show negative margins despite high sales volume (>20 units).
-* **Strategic Impact:** This is a critical "Red Flag." High volume should never scale a loss. A price strategy review or shipping surcharge for these items is mandatory to protect the bottom line.
+* **Insight:** Specific products show negative margins despite high sales volume (>20 units).
+* **Strategic Impact:** High volume should never scale a loss. A price strategy review or shipping surcharge for these items is mandatory to protect the bottom line.
 
 ### 3. Seasonal Profitability Peaks
 ![Seasonal Insights](./img/seasonal_insights.png)
